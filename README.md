@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0053-maximum-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
