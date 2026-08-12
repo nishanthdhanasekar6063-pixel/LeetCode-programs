@@ -1,19 +1,13 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int element=0;
-        int count=0;
-        for(int num: nums){
-            if(count==0){
-                element=num;
-                count=1;
-            }
-            else if(num==element){
-                count++;
-            }
-            else{
-                count--;
-            }
-        }
-        return element;
+        // Base case...
+        if (nums.length == 1) {
+		    return nums[0];
+	    }
+        // Sort nums array...
+        Arrays.sort(nums);
+        // Since the majority element appears more than n / 2 times...
+        // The n/2 -th element in the sorted nums must be the majority element...
+	    return nums[nums.length / 2];
     }
 }
