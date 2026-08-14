@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0169-majority-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
