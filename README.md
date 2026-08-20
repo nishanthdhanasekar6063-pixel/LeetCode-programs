@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0009-palindrome-number) |
+| [1903-largest-odd-number-in-string](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -59,9 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
