@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -63,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
