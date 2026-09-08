@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/1903-largest-odd-number-in-string) |
+| [3870-count-commas-in-range](https://github.com/nishanthdhanasekar6063-pixel/LeetCode-programs/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
